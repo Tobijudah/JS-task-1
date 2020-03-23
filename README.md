@@ -1,2 +1,2 @@
 # JS-task-1
-First start.ng JS task
+Start.ng March 2020
